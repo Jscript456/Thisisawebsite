@@ -39,7 +39,7 @@ if (!isset($_SESSION['username'])) {
   </script>
 </head>
 <body>
-  <h1>Chat</h1>
+  <h1>For those who want to spell the tea</h1>
   <div id="messages"></div>
   <form id="messageForm">
     <input type="text" name="message">
