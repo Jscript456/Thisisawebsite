@@ -1,0 +1,62 @@
+/* Set the body background to a gradient from turquoise to blue */
+body {
+    background: linear-gradient(to bottom, #40E0D0, #4169E1);
+  }
+  
+  /* Set the font color to white */
+  body {
+    color: white;
+  }
+  
+  /* Set the font family and size */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Center the content horizontally */
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  /* Style the header with a blue background and white text */
+  header {
+    background-color: #4169E1;
+    color: white;
+    padding: 20px;
+  }
+  
+  /* Style the navigation links with a turquoise background and white text */
+  nav {
+    background-color: #40E0D0;
+    color: white;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  nav a:hover {
+    background-color: white;
+    color: #40E0D0;
+  }
+  
+  /* Style the main content area */
+  main {
+    background-color: white;
+    padding: 20px;
+  }
+  
+  /* Style the footer with a turquoise background and white text */
+  footer {
+    background-color: #40E0D0;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
